@@ -4,7 +4,7 @@ This project is based on React JS Crash Course by Dennis Ivy. I have updated it 
 [Home Page](/src/assets/HomePage.png)
 [Current Note](/src/assets/CurrentNote.png)
 [New Note](/src/assets/NewNote.png)
-[Deleted First Note](/src/assets/DeletedFirstNote.png
+[Deleted First Note](/src/assets/DeletedFirstNote.png)
 
 # Getting Started with Create React App
 
