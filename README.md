@@ -1,3 +1,11 @@
+# Notes from Mitchel
+This project is based on React JS Crash Course by Dennis Ivy. I have updated it to use react-dom-router v6 instead of v5, meaning there are some breaking changes between his version and mine. 
+
+[Home Page](/src/assets/HomePage.png)
+[Current Note](/src/assets/CurrentNote.png)
+[New Note](/src/assets/NewNote.png)
+[Deleted First Note](/src/assets/DeletedFirstNote.png
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
